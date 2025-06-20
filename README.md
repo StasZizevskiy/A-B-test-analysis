@@ -1,2 +1,2 @@
-# A-B-test-analysis
+# AB_test_analysis
 Анализ A/B теста 
